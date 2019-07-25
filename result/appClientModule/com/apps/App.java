@@ -19,7 +19,7 @@ public class App
 
 		while(choice !=6)
 		{
-		System.out.println("Results details");
+		System.out.println("MMMMYYYYYY details");
 		System.out.println("1.add Results");
 		System.out.println("2.delete Results");
 		System.out.println("3.search Results ");
